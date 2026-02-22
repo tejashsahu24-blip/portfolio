@@ -6,7 +6,7 @@ function Experience() {
 
   <div class="job">
 
-    <h3>Executive — Multifixsolutions Private Limited (Present)</h3>
+    <h3>Executive — Multifysolutions Private Limited (Present)</h3>
 
     <ul>
       <li>Managed finance customer communication campaigns using SMS, WhatsApp, and OBD calls</li>
